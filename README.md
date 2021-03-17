@@ -12,7 +12,8 @@ A simple Python script to check if NordVPN accounts listed in a file are valid.
 
 # Installation
 
-- Clone the repo with `git clone https://github.com/behnambm/nordvpn-checker`
+- Clone this specific repo with `git clone https://github.com/aliansari2/nordvpn-checker`
+- forked from https://github.com/behnambm/nordvpn-checker`
 
 # Usage
 
